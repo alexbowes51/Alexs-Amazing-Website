@@ -1,9 +1,21 @@
 body{
-background-color: Blue;
+background-color: MidnightBlue;
 }
 
 
 h1{
+color: Bisque;
+}
+
+h2{
+color: Bisque;
+}
+
+h3{
+color: Bisque;
+}
+
+p{
 color: Bisque;
 }
 
