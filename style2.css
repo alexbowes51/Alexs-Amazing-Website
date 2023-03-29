@@ -24,9 +24,13 @@ color:Salmon;
 border-style:solid;
 }
 
-tr{
-color:plum;
+tr,td{
+color:bisque;
 border-style:solid;
+}
+
+.Kahoot{
+    background-color: green;
 }
 
 ul{
