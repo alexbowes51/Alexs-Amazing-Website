@@ -29,6 +29,13 @@ color:Bisque;
 border-style:solid;
 }
 
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+background-color: Bisque;
+}
+
 td{
 color:Bisque;
 border-style:solid;
