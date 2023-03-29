@@ -19,27 +19,19 @@ p{
 color: Bisque;
 }
 
-table{
-color:Bisque;
-border-style:solid;
-}
-
-tr{
+table , tr , td{
 color:Bisque;
 border-style:solid;
 margin: 75px;
+width:100%;
 }
 
 ul{
 list-style-type:none;
 margin:0;
 padding:0;
-background-color: Bisque;
+background-color: Salmon;
+opacity:0.8;
 }
 
-td{
-color:Bisque;
-border-style:solid;
-margin: 75px;
-}
 
