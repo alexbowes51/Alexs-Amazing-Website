@@ -19,10 +19,14 @@ p{
 color: Bisque;
 }
 
-table , tr , td{
+table{
 color:Salmon;
 border-style:solid;
-;
+}
+
+tr{
+color:plum;
+border-style:solid;
 }
 
 ul{
