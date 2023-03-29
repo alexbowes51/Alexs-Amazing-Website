@@ -20,10 +20,9 @@ color: Bisque;
 }
 
 table , tr , td{
-color:Bisque;
+color:Salmon;
 border-style:solid;
-margin: 75px;
-width:100%;
+;
 }
 
 ul{
@@ -31,7 +30,6 @@ list-style-type:none;
 margin:0;
 padding:0;
 background-color: Salmon;
-opacity:0.8;
 }
 
 
