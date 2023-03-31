@@ -23,15 +23,11 @@ table{
 border-style:solid;
 }
 
-tr,td{
+tr,td,th{
 color:white;
 border-style:solid;
 }
 
-th{
-border-style:solid:
-color:white:
-}
 
 .Kahoot{
     background-color: green;
@@ -49,7 +45,7 @@ ul{
 list-style-type:none;
 margin:0;
 padding:0;
-background-color: Salmon;
+background-color: Bisque;
 }
 
 
