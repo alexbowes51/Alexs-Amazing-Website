@@ -33,3 +33,9 @@ color: Black;
 
 li a:{
 background-color: 
+}
+
+img{
+width: 200px;
+border:5px solid;
+}
